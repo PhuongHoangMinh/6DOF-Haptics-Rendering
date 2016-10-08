@@ -1,0 +1,1 @@
+Voxel-based methods for 6DOF Haptics Rendering 
